@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtSpeechInput" type="id" />
+    <item name="btnSpeak" type="id" />
+    <item name="webview" type="id" />
+    <item name="audioPlay" type="id" />
+    <item name="mainAudioLayout" type="id" />
+    <item name="closeButton" type="id" />
+    <item name="audioTitle" type="id" />
+</resources>
